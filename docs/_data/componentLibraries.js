@@ -53,6 +53,12 @@ const componentLibraries = [
     description: 'Custom elements made for all kind of projects and frameworks.',
   },
   {
+    name: 'drab',
+    url: 'https://drab.robino.dev',
+    description:
+      'drab is a headless, SSR friendly, custom element library that utilizes the light DOM to enhance HTML.',
+  },
+  {
     name: 'Duet Design System',
     url: 'https://www.duetds.com/',
     description:
@@ -107,6 +113,12 @@ const componentLibraries = [
       'A Design System and complete UI component library built to facilitate the design and development of intuitive, coherent and pleasing applications based on Web technologies (HTML5). It contains 35+ components which are compatible with any framework, form factor, input type and modern browser.',
   },
   {
+    name: 'LDRS',
+    url: 'https://uiball.com/ldrs/',
+    description:
+      'A meticulously designed set of lightweight, configurable loaders and spinners.',
+  },
+  {
     name: 'Lightning Web Components by SalesForce',
     url: 'https://developer.salesforce.com/docs/component-library/overview/components',
     description:
@@ -131,6 +143,11 @@ const componentLibraries = [
       "Material Design Components from Material Design team themselves. Stay as close as possible to the living specification with these components from Google's own Material Design team.",
   },
   {
+    name: 'mdui',
+    url: 'https://www.mdui.org/',
+    description: 'A Material Design 3 (Material You) library of Web Components.',
+  },
+  {
     name: 'Nord Design System',
     url: 'https://nordhealth.design/components/',
     description:
@@ -140,6 +157,12 @@ const componentLibraries = [
     name: 'Patternfly Elements',
     url: 'https://patternflyelements.org/',
     description: "Red Hat's set of community-created web components based on PatternFly design.",
+  },
+  {
+    name: 'Porsche Design System',
+    url: 'https://designsystem.porsche.com/',
+    description:
+      'The Porsche Design System provides the design fundamentals and elements for efficiently creating aesthetic and high-quality web applications, including easy-to-use Figma and UX Pin libraries, coded Web Components and comprehensive usage guidelines. Everything is built and tested following the Porsche quality standards and corporate design principles.',
   },
   {
     name: 'Siemenx IX',
